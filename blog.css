@@ -354,6 +354,12 @@ overflow: hidden;*/
     height: 200px;
     border-radius: 30%;
 }
+.CNU{
+    width: 350px;
+    height: 200px;
+    border-radius: 40%;
+    align-items: center;
+}
 
 
 .footer{
