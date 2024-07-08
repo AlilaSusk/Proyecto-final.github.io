@@ -188,6 +188,9 @@ overflow: hidden;*/
 .testimonio{
     background-color: rgb(247, 246, 203);
 }
+.transc{
+    background-color: #A9DFBF;
+}
 .testimonio_contenido{
  display: grid;  
  grid-template-columns: 50px 1fr 50px; 
@@ -340,6 +343,17 @@ overflow: hidden;*/
 /*.resaltarblog{
     background-color: #4ebd38;
 }*/
+
+/*mediacion policiva*/
+.img_conciliacion2{
+    display: flex;
+    justify-content: center;
+}
+.equidad2{
+    width: 350px;
+    height: 200px;
+    border-radius: 30%;
+}
 
 
 .footer{
